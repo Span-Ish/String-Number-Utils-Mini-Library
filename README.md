@@ -1,7 +1,7 @@
-# my_utils
+# My Utils
 
-A simple Python utility library built for learning Test-Driven Development (TDD), unit testing with pytest, and code coverage analysis.
-
+A simple Python utility library built for performing simple number and string actions.
+This is a project created with the purpose of learning Test-Driven Development (TDD), unit testing with pytest, package creation and understanding code coverage analysis
 ---
 
 ## Project Structure
